@@ -4,7 +4,7 @@ Hi and welcome. I'm André Fernandes, a [CFC](https://fr.wikipedia.org/wiki/Cert
 
 1. Make software to help people share their passions.
 2. Talk about the things I'm passionate, in an audio or video form.
-3. Have enough money to live peacefully, pay all the server bills and some for mobile gacha-games. <small>I'm not sorry.</small>
+3. Have enough money to live peacefully, pay all the server bills and some for mobile gacha-games. ~~(I'm not sorry)~~
 
 I mostly do my projects in PHP (usually with the [Fat-Free Framework](https://fatfreeframework.com/)) and VueJS, but I also write in Python and NodeJS.
 
@@ -19,8 +19,8 @@ I will otherwise not take your message seriously and might consider it as spam.
 - [Rita.moe](https://rita.moe/), just a small place to host files/mails/code with people I can trust.
 
 
-#### Thins I'm working on
+#### Things I'm working on
 
 - [toonsquad](https://toonsquad.co/), a cartoon tracking service with the goal of also being a source to learn more about the production and the people behind the shows.
-- [Double-Clic](http://double-clic.show/), a short weekly <small>(maybe triweekly in the future)</small> French podcast to keep being up-to-date with subjects that I think interest a lot of Internet passionates. The format is based on what _Les Croissants_ did every morning, and I want to cover most subjects that [NoLife](https://en.wikipedia.org/wiki/Nolife_(TV_channel)) did and maybe more.
+- [Double-Clic](http://double-clic.show/), a short weekly (maybe triweekly in the future) French podcast to keep being up-to-date with subjects that I think interest a lot of Internet passionates. The format is based on what _Les Croissants_ did every morning, and I want to cover most subjects that [NoLife](https://en.wikipedia.org/wiki/Nolife_(TV_channel)) did and maybe more.
 - pods.onl, a software and service so you can launch and host your podcast without signing for weird terms and exclusivity. And you get a nice website that you can customize with your own template.
