@@ -11,6 +11,8 @@ I mostly do my projects in PHP (usually with the [Fat-Free Framework](https://fa
 If you want to send me an email to the one displayed on my profile, you'll have to include this code clearly in the subject line or the body: `b4tp0n`.
 I will otherwise not take your message seriously and might consider it as spam.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mkody)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 #### Things I currently run
 
