@@ -9,9 +9,9 @@ Hi and welcome. I'm André Fernandes, a [CFC](https://fr.wikipedia.org/wiki/Cert
 I mostly do my projects in PHP (usually with the [Fat-Free Framework](https://fatfreeframework.com/)) and VueJS, but I also write in Python and NodeJS.
 
 If you want to email me, add `b4tp0n` in the subject line and send it to `gh{at}kdy.ch`.  
-I will otherwise not take your message seriously and blacklist your address/domain.
+I will otherwise not take your message seriously and might blacklist your address/domain.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mkody)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mkody&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 #### Things I currently run
