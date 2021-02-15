@@ -11,4 +11,4 @@ I mostly do my projects in PHP (usually with the [Fat-Free Framework](https://fa
 If you want to email me, add `b4tp0n` in the subject line and send it to `gh{at}kdy.ch`.  
 I will otherwise not take your message seriously and might blacklist your address/domain.
 
-[Twitter](https://twitter.com/0kody) | [Fediverse](https://im-in.space/@kdy) | [GitLab](https://gitlab.com/mkody) | [AniList](https://anilist.co/user/kdy) | [Telgram](https://t.me/MKody) | Discord: Kody#1337
+[Twitter](https://twitter.com/0kody) | [Fediverse](https://im-in.space/@kdy) | [GitLab](https://gitlab.com/mkody) | [AniList](https://anilist.co/user/kdy) | [Telegram](https://t.me/MKody) | Discord: Kody#1337
