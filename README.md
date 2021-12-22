@@ -8,11 +8,4 @@ Hi and welcome. I'm André Fernandes, a [CFC](https://fr.wikipedia.org/wiki/Cert
 
 I mostly do my projects in PHP (usually with the [Fat-Free Framework](https://fatfreeframework.com/)) and VueJS, but I also write in Python and NodeJS.
 
-If you want to email me, add `b4tp0n` in the subject line and send it to `fern〈at〉ndes.ch`.  
-I will otherwise not take your message seriously and might blacklist your address/domain.
-
 [Twitter](https://twitter.com/0kody) | [Fediverse](https://im-in.space/@kdy) | [GitLab](https://gitlab.com/mkody) | [AniList](https://anilist.co/user/kdy) | [Telegram](https://t.me/MKody) | Discord: Kody#1337
-
-<a target="_blank" href="https://np-kdy.vercel.app/now-playing?open">
-  <img src="https://np-kdy.vercel.app/now-playing" width="540" height="64" alt="Now Playing" style="border-radius:5px">
-</a>
