@@ -8,4 +8,4 @@ Hi and welcome. I'm André Fernandes, a [CFC](https://fr.wikipedia.org/wiki/Cert
 
 I mostly do my projects in PHP (usually with the [Fat-Free Framework](https://fatfreeframework.com/)) and VueJS, but I also write in Python and NodeJS.
 
-[Twitter](https://twitter.com/0kody) | [Fediverse](https://im-in.space/@kdy) | [GitLab](https://gitlab.com/mkody) | [AniList](https://anilist.co/user/kdy) | [Telegram](https://t.me/MKody) | Discord: 0kody
+[Fediverse](https://im-in.space/@kdy "@kdy@im-in.space") | [Forgejo/Gitea](https://git.rita.moe/kody "@kody@git.rita.moe") | [AniList](https://anilist.co/user/kdy "@kdy") | [Telegram](https://t.me/MKody "@MKody") | [Discord](https://discord.com/users/81293337012744192 "@0kody") | [Matrix](https://matrix.to/#/@kdy:beeper.com "@kdy:beeper.com")
